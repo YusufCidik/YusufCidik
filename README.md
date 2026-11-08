@@ -13,7 +13,7 @@ I'm currently working on data science, deep learning. I also have experience in 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YusufCidik&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YusufCidik&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=YusufCidik&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### A Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
